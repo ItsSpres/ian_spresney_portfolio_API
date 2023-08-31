@@ -1,0 +1,43 @@
+{
+    "profile": [
+        {
+        "name": "Ian Spresney",
+        "title": "Software Developer",
+        "about": "",
+        "contact": {
+            "email": "ispresney@ianspresney.com",
+            "phone": "",
+            "website": "https://www.ianspresney.com",
+            "location": "Lakewood, CA",
+            "social": {
+              "linkedin": "",
+              "github": "",
+              "appstore": ""
+            }
+            }
+        }                                                                              
+    ],
+    "projects": [
+      {
+        "title": "Portfolio Website",
+        "description": "Designed and developed my personal portfolio website using HTML, CSS, and JavaScript.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "link": "https://www.johndoe.com/portfolio"
+      },
+      {
+        "title": "E-commerce Store",
+        "description": "Built a responsive e-commerce store using React, Redux, and Node.js.",
+        "technologies": ["React", "Redux", "Node.js"],
+        "link": "https://www.examplestore.com"
+      }
+    ],
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+    "education": [
+      {
+        "degree": "Bachelor's in Computer Science",
+        "university": "University of Example",
+        "year": "2017"
+      }
+    ]
+    }
+  
